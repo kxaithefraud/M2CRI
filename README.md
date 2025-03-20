@@ -1,6 +1,6 @@
 # 🎖️ Custom Rank Icons Resource Pack for Minecraft 🎖️
 
-This resource pack allows you to replace **specific Unicode characters with custom images**, making it easy to display **custom ranks or icons** in Minecraft chat, tab list, or anywhere text is rendered! 🏆
+This simple resource pack allows you to replace **specific Unicode characters with custom images**, making it easy to display **custom ranks or icons** in Minecraft chat, tab list, or anywhere text is rendered! 🏆
 
 ---
 
