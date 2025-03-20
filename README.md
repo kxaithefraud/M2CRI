@@ -29,7 +29,7 @@ Alternatively:
     Custom Pack Loader (for Fabric)
         It allows servers to distribute custom resource packs automatically, very useful for modded servers!
 
-Or use plugins like **[Server Resource Pack Loader](https://www.spigotmc.org/resources/81208/)** to manage resource packs dynamically!
+Or use plugins like **[Server Resource Pack Loader]** to manage resource packs dynamically!
 
 
 ---
