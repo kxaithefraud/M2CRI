@@ -1,0 +1,53 @@
+{
+    "providers": [        
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_owner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍡"]
+        },        
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍛"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_newcomer.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_member.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍜"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_team.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍖"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_famous.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍕"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prefix_afk.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["⍙"]
+        }
+    ]
+}

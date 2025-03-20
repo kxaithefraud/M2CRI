@@ -1,9 +1,0 @@
-[
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/pixil-frame-0.png",
-      "ascent": 16,
-      "height": 8,
-      "chars": ["Ⓐ"]
-    }
-  ]
